@@ -11,6 +11,7 @@ import{StyleSheet, View} from 'react-native'
 // import Titulo from './componentes/Titulo'
 //import Contador from './componentes/Contador'
 //import Teste from './componentes/teste'
+// comentário
 //import Pai from './componentes/indireta/Pai'
 //import ContadorV2 from './componentes/contador/ContadorV2'
 //import ParImpar from './componentes/ParImpar'
